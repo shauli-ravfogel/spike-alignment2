@@ -1,0 +1,22 @@
+arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
+0	Acute kidney injury is a possible manifestation in severe forms of COVID-19 , conferring a high mortality 7 .
+1	Coagulation dysfunction is one of the major causes for death in patients with severe COVID-19 [ 4 ] .
+2	Coagulopathy is one of the main complications occurring in hospitalized patients with severe COVID -19 .
+3	Hypoxia is the most common manifestation of patients with COVID-19 , especially in severely or critically ill patients .
+4	Early-onset pneumonia is a common and severe complication that is related to aspiration in patients with GBS .
+5	Barotrauma is a common complication in patients with SARS .
+6	COVID-19 infection is associated with several cardiac complications with high rates of adverse outcomes .
+7	COVID-19 infection is associated with several cardiac complications with high rates of adverse outcomes .
+8	AKI is one of the common complications with COVID-19 , and is associated with increased morbidity and mortality .
+9	Spontaneous pneumothorax is a specific and potentially life-threatening complication in SARS patients .
+10	COVID-19 pneumonia may lead to acute respiratory distress syndrome and severe respiratory failure ( 1 ) .
+11	Pneumonia is the most frequent and serious complication of COVID-19 , due to excessive host immune response causing an acute respiratory distress syndrome .
+12	Acute respiratory distress syndrome developing in patients with COVID-19 pneumonia is associated with a high mortality rate and is the main cause of death in patients with SRAS-Cov-2 infection [ 1 ] .
+13	Pneumonia is a life-threatening complication of COVID-19 infection 10 .
+14	ARDS and shock are common complications that can lead to death in COVID-19 patients .
+15	Multiorgan injury , which significantly increases mortality , is often evident in patients with COVID-19 .
+16	Acute IH is a significant complication of high-dose IVIg infusion .
+17	Multiorgan failure and disseminated intravascular coagulation ( DIC ) are also frequently observed during COVID-19 infection .
+18	Acute Respiratory Distress Syndrome ( ARDS ) is one of the commonest complications developing in patients with COVID-19 [ 6 ] .
+19	Cardiac injury is a common condition among the hospitalized patients with COVID-19 .
+20	DIC is a severe complication in COVID-19 patients and it has been related to poor prognosis and increased mortality ( 71.4 % of patient who die of COVID-19 ) ( 2 ) .
