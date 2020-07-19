@@ -1,0 +1,22 @@
+people with arg1:[e]asthma are $susceptible to arg2:[e]asthma
+0	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
+1	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
+2	Patients with ARDS triggered by viral infection , in particular influenza , are prone to invasive aspergillosis even in absence of prior immunodeficiency .
+3	Patients with immunodeficiency due to human immunodeficiency virus ( HIV ) infection are highly susceptible to viral sepsis depending on the stage of disease and access and response to the treatment ( 19 ) .
+4	Individuals with diabetes , immunosuppressive disorders , and liver disease including hemochromatosis and alcoholic liver disease are especially susceptible to infection .
+5	Patients with cancer are more susceptible to the infection owing to their immunocompromised state .
+6	Individuals with SCD are strongly susceptible to encapsulated bacterial organisms such as S. pneumoniae , a common colonizer of the nasopharynx in healthy children .
+7	However , immunocompromised individuals , both children and adults , are prone to develop severe illness as a result of HPIV infection .
+8	Affected individuals are immunosuppressed , and therefore , are more susceptible to influenza , viral enteritis , and distemper [ 1 , 26 ] .
+9	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
+10	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
+11	Patients with cancer are known to be at an increased risk for community-acquired respiratory viruses , such as influenza , because of their frequently observed immunocompromised state .
+12	Moreover , dialysis patients are more vulnerable to infection due to suppression of the immune system .
+13	Moreover , children receiving immunomodulatory or immunosuppressive therapies due to malignancy , transplantation , or autoimmune disease are more susceptible to viral infection or reactivation .
+14	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+15	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+16	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+17	Elderly patients are also more prone to RSV infections due to their decreased immunologic response to the virus [ 13 ] .
+18	Although the incidence of RSV infection is low among patients with AML , it is associated with high mortality in children with AML [ 21 ] , and it is well known that infants , both immunocompetent and immunocompromised , are particularly vulnerable to RSV .
+19	Patients with severe virus infection are more likely to be co-infected with bacteria due to low immune functions [ 24 ] .
+20	Cancer patients are at an increased risk for these infections due to their immunosuppressed states .
