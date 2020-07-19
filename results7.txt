@@ -1,0 +1,22 @@
+the recommended arg1:[w]quarantine period is arg2:14 :[w]days
+0	If we aim to control the failure rate of quarantine to be below 1 % with 95 % confidence , then the quarantine period must be at least 22 days .
+1	In general , the duration of the quarantine period should be 21 to 30 days .
+2	Although for extreme cases , the quarantine period should be extended up to three weeks .
+3	At the beginning and the end of a SARS epidemic , to control the epidemic completely , we recommend a period of 22 days for quarantine , which would capture 99 percent of all probable SARS cases with a probability of 0.9 .
+4	Based on the 95th percentile estimate of the incubation period , we recommend that the length of quarantine should be at least 14 days .
+5	Based on the 95th percentile estimate of the incubation period , we recommend that the length of quarantine should be at least 14 days .
+6	As such , the quarantine period should be extended up to three weeks .
+7	For example , if the rate of transmission is reduced by 10 % , the quarantine from symptom onset needs to be implemented within 32.37 h.
+8	If testing is not done , the quarantine period should at least exceed the incubation and shedding period of the diseases of concern .
+9	Therefore , the quarantine period should be around 2 weeks after a close contact with a person with symptoms .
+10	As per the CDC guidelines , 14 days should be the period of quarantine ( Science Daily website ) .
+11	The quarantine period is typically 30 days .
+12	Because a longer and more volatile incubation period has been observed in travelers , the duration of quarantine should be extended to 3 weeks .
+13	The time for which a patient can infect others varies between 7 and 14 days for moderate cases according to [ 3 ] , and this is why quarantine should last at least two weeks .
+14	Therefore , we suggest that the appropriate duration of quarantine is 4 days .
+15	A quarantine period of at least 15 days should allow adequate time for the return and evaluation of test data .
+16	At the moment , the WHO-established quarantine period is 14 days based on previous reports which had studied small sizes of hospitalized cases ( 10 and ~100 , respectively ) , however , over 80 % of adult- and 95 % of child-cases were not necessary to stay in hospitals , and therefore , had not been hospitalized .
+17	The temporary storage time for COVID-19 related medical waste in the hospital should not exceed 24 hours .
+18	Quarantine duration depends on national regulations but should be a minimum of 30 days .
+19	We recommend that the duration of quarantine should be at least 14 days on the basis of the 95th percentile estimate of the incubation period ( 10 ) .
+20	A minimum quarantine period of 60 to 90 days is recommended in a building that is separate from the main facility .
