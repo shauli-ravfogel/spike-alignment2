@@ -1,0 +1,22 @@
+a arg1:subset of patients  $progress to arg2:hemorrhagic fever
+0	Severe cases may progress to a capillary leak syndrome with septic shock , rash , facial and neck swelling , and multi-organ system failure .
+1	When symptoms occur , IPS may rapidly progress to pulmonary dysfunction requiring mechanical ventilation .
+2	Clinical signs are nonspecific in the early stages , but as the disease progresses to involve more of the liver and impair regeneration , icterus , ascites , and hepatic encephalopathy may develop as typical correlates with hepatic insufficiency .
+3	The patients can develop radiographic findings of bilateral pulmonary opacities [ 9 ] , and they can progress to respiratory failure in severe cases .
+4	Untreated cases of DPB typically progress to bronchiectasis and respiratory failure .
+5	Symptoms can progress to a severe form of pneumonia with critical complications , including septic shock , pulmonary edema , acute respiratory distress syndrome and multi-organ failure .
+6	Rarely , symptoms may progress to respiratory failure , shock or multiorgan dysfunction .
+7	This infection usually begins as a viral croup but progresses rapidly with high fever , toxicity , and worsening respiratory distress .
+8	Mild disease may resolve without medical care or may progress to pneumonia and respiratory failure requiring hospitalization .
+9	In severe cases , dyspnea and/or hypoxemia usually occur one week after the onset of the disease , and in severe cases , it rapidly progresses to acute respiratory distress syndrome , septic shock , metabolic acidosis that is difficult to correct , and bleeding and coagulation dysfunction .
+10	The disease may progress to encephalitis with drowsiness , disorientation , convulsions , and coma .
+11	This worsening can present as recurrent fever 4 to 7 days after initial defervescence , new chest infiltrates , respiratory failure , or watery diarrhea .
+12	While disease is often mild with cold-like symptoms , it can progress to severe presentations such as bronchiolitis or pneumonia requiring hospitalization or resulting in death .
+13	Patients may progress to acute respiratory distress syndrome , neurological impairment with encephalopathy , and seizures .
+14	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
+15	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
+16	In severe cases , the illness can progress to the development of interstitial pneumonia , acute respiratory distress syndrome , meningoencephalitis , acute kidney injury , or disseminated intravascular coagulation .
+17	The disease can rapidly progress to the hemorrhagic phase of disease , during which patients exhibit petechiae , hematomas/ecchymosis , and hemorrhages from various sites around the body .
+18	In some patients , the signs may progress to a secondary bronchopneumonia .
+19	They may begin with an afebrile watery diarrhea syndrome and then progress to fever and bacteremia .
+20	In severe cases , the disease may progress to respiratory , circulatory , and renal failure , and ultimately death due to multiorgan failure .

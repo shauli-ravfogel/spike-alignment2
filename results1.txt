@@ -1,0 +1,22 @@
+<>arg1:virus $infection $causes a <>arg2:condition .
+0	In humans , JEV infection can cause Japanese encephalitis ( JE ) with severe central nervous system disorders .
+1	Hepatotropic virus , like MHV-3 infection in mice , can induce exaggerated inflammation in the liver and cause life-threatening viral FH .
+2	Human metapneumovirus ( hMPV ) infection causes respiratory tract disease similar to that observed during human respiratory syncytial virus infection ( hRSV ) .
+3	In humans , CHIKV infections cause a debilitating disease with acute febrile illness and long-term polyarthralgia .
+4	FIV infection causes progressive immunosuppression that results in the development of the acquired immunodeficiency syndrome ( AIDS ) in cats , which , similar to human HIV infection , increases susceptibility to secondary and opportunistic infections .
+5	Human infection of H7N9 avian infl uenza virus directly induces pneumonia , with radiological signs of pneumonia early after onset .
+6	MCMV causes asymptomatic infection in adult immunocompetent mice , but experimental inoculation of neonates has caused lethal disease due to multisystemic necrosis and inflammation .
+7	BRV is a lytic infection and destruction of infected mucosal epithelial cells is an important component of disease pathogenesis .
+8	As discussed above , coxsackievirus B3 ( CVB3 ) infection causes myocarditis in human beings as well as in male BALB/c mice .
+9	In chickens , Infectious Bronchitis ( IB ) causes severe inflammatory lesions in the respiratory tract .
+10	PEDV infects the epithelium of the small intestine , an environment rich in proteases , and causes atrophy of the villi resulting in diarrhea and dehydration .
+11	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
+12	However , SARS-CoV infection results in severe and even fatal lung disease in humans .
+13	FIV is an important viral pathogen worldwide in the domestic cat ( Felis catus ) , causes a slow progressive degeneration of immune functions that eventually leads to a disease .
+14	In humans , coronavirus infection results in respiratory tract complications with varying degree of severity and has been associated with gastroenteritis .
+15	In humans , the virus causes a lower respiratory tract disease and may progress to ARDS , multiorgan failure , and death in severe cases .
+16	In pythons , nidovirus infection induces an inflammation of the upper respiratory and alimentary tract which can develop into a severe and often fatal proliferative pneumonia .
+17	Influenza virus infection in humans can lead to mild to severe illness , as a result of both viral replication and the host immune response .
+18	In hamsters , viral replication occurs in epithelial cells of the respiratory tract and causes interstitial pneumonia , pulmonary consolidation , and diffuse alveolar damage .
+19	Although diarrhea is recognized as the main clinical feature of BCV infections , BCV also causes respiratory tract infections in calves .
+20	PRRSV increases the susceptibility of the host to a wide range of viral and bacterial respiratory pathogens , resulting in increased severity of clinical signs and lung lesions .

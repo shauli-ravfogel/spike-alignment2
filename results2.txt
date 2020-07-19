@@ -1,0 +1,22 @@
+infected arg1:patients $usually $develop <>arg2:[entity]respiratory illness.
+0	After an incubation period of 5 to 14 days , SARS-CoV-2-infected people commonly manifest features of pneumonia , including fever , dry cough , dyspnoea , myalgia and fatigue .
+1	After an incubation period of 2 to 3 days , patients who have pneumonic plague typically develop fulminant pneumonia , with malaise , high fever , cough , hemoptysis , and septicemia with ecchymoses and extremity necrosis .
+2	Patients suffering from severe DENV infection often exhibit encephalopathy and encephalitis .
+3	Following an incubation period of usually 4 - 5 days , patients infected with SARS-CoV often present with symptoms of fever , headache , and myalgias .
+4	Cats with FIP show nonspecific clinical signs such as fever , weight loss and anorexia , often accompanied by body cavity effusions and/or ocular and neurological signs .
+5	Cats with signs from FIV often have lethargy , anorexia and weight loss associated with secondary infections of the skin , and gastrointestinal or respiratory tracts .
+6	Enteric FCoV infection typically results in inappetence and/or mild gastrointestinal signs such as vomiting and diarrhea .
+7	Most patients with MERS develop severe acute respiratory illness accompanied by fever , cough , and shortness of breath [ 50 ] .
+8	The terminal stages of Ebola virus infection usually include diffuse bleeding , and hypotensive shock accounts for many Ebola virus fatalities .
+9	In rats , infection is usually asymptomatic , although nonspecific clinical signs such as weight loss and dyspnea may occur .
+10	Following an average incubation period of 20 days , infected patients can present with severe headache , fever , chills , fatigue , and myalgia .
+11	Patients infected with EVD rapidly deteriorate and commonly present with gastrointestinal symptoms including vomiting , diarrhea and dehydration .
+12	Adult rabbits usually develop a chronic disease course , which can lead to intestinal fi brosis , liver necrosis and stenosis , and myocardial disease .
+13	Cats are primarily infected subclinically , but gastrointestinal disease manifested as enterocolitis and endotoxemia can occur and is initially associated with fever , malaise , and anorexia followed by vomiting , abdominal pain , and diarrhoea [ 7 ] .
+14	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
+15	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
+16	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
+17	Common marmosets with measles infection become clinically apparent with lethargy , facial edema , and nasal discharge and occasionally develop an exanthema .
+18	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
+19	Humans infected with RVFV usually develop an acute febrile myalgic syndrome ; however , a small percentage of patients have a lethal illness that results in hepatic damage , hemorrhagic fever-like illness , encephalitis and/or retinal vasculitis [ 8 ] .
+20	In humans , infection is associated with fever and liver damage , but a subset of patients progress to hemorrhagic fever , encephalitis , ocular disease or death .
