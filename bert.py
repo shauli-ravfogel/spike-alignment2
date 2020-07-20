@@ -1,4 +1,3 @@
-
 import torch
 from transformers import BertTokenizer, BertModel, BertForMaskedLM, BertConfig, RobertaModel, RobertaForMaskedLM, RobertaTokenizer, RobertaConfig
 from transformers import AutoTokenizer, AutoModel, AutoConfig
@@ -13,13 +12,14 @@ class BertEncoder(object):
     def __init__(self, device='cpu', model="bert"):
 
         if model == "bert":
-            config = BertConfig.from_pretrained("bert-base-uncased", output_hidden_states=False)
+            config = BertConfig.from_pretrained("bert-base-uncased", output_hidden_states=True)
             self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
             self.model = BertForMaskedLM.from_pretrained('bert-base-uncased', config = config)
- 
+
         elif model == "scibert":
+            config = AlbertConfig.from_pretrained('allenai/scibert_scivocab_uncased', output_hidden_states = True)
             self.tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
-            self.model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased')
+            self.model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased', config = config)
         
         self.model.eval()
         self.model.to(device)
@@ -60,19 +60,21 @@ class BertEncoder(object):
         bert_tokens.append("[SEP]")
         return (bert_tokens, orig_to_tok_map, tok_to_orig_map)
 
-    def encode(self, sentence: str, layers: List[int], idx_to_mask = []):
+    def encode(self, sentence: str, layers: List[int]):
 
         tokenized_text, orig2tok, tok_to_orig_map = self.tokenize(sentence.split(" "))
         #pos_ind_bert = orig2tok[pos_ind]
-        for i in idx_to_mask:
-            tokenized_text[orig2tok[i]] = "[MASK]"
-            
+        #if np.random.random() < mask_prob:
+        #    tokenized_text[pos_ind_bert] = self.mask
         indexed_tokens = self.tokenizer.convert_tokens_to_ids(tokenized_text)
         tokens_tensor = torch.tensor([indexed_tokens]).to(self.device)
 
         with torch.no_grad():
             outputs = self.model(tokens_tensor)
-            return outputs[0][0].detach().cpu().numpy(), tokenized_text, tok_to_orig_map, orig2tok
+            all_layers = outputs[-1]
+            layers_concat = torch.cat([all_layers[l] for l in layers], dim = -1)
+            
+            return layers_concat[0].detach().cpu().numpy(), tokenized_text, tok_to_orig_map, orig2tok
             
             
             predictions = torch.cat([outputs[1][layer][0] for layer in layers], axis=-1)  # .detach().cpu().numpy()
