@@ -1,0 +1,22 @@
+low blood oxygen arg1:levels are a $risk factor in arg2:[e]COVID-19 infection
+0	Similar to other studies ， our data indicated senior and hypertension are the high risk factors for severe COVID-19 infection .
+1	These findings suggested that men with severe COVID-19 is susceptible to secondary infections with virus or bacteria , resulting in higher utilization rate of advanced antiviral therapy and antibiotics .
+2	In this study , preceding RVIs was one of the independent risk factors associated with severe pneumococcal pneumonia ( a higher PSI score ≥91 ) , suggesting a potential role of preceding RVIs on clinical severity .
+3	Our study also identified that CVD is an independent risk factor associated with the progression of COVID-19 to a critical illness at the early stage .
+4	Our findings suggested that , similar with other severe acute respiratory outbreaks , comorbidities such as COPD , diabetes , hypertension and malignancy predisposed to adverse clinical outcomes in patients with Covid-19 .
+5	Additionally , our study identified that age is a risk factor for the development of ARDS or death in critically ill patients with COVID-19 .
+6	According to previous reports , male gender , presence of older siblings , tobacco smoke exposure , and siblings attending daycare center were important risk factors for RSV infection .
+7	Older age , higher CCI scores , smoker , ulcer disease , and previous pneumonia history increased the risk of POP development in cancer patients .
+8	In contrast , frequency of pregnant women among those of reproductive age hospitalized with severe manifestation of influenza A (H1N1)pdm09 was high , suggesting that pregnancy could be associated with development of SARI .
+9	Further , age was an independent predictor of adverse outcome and discriminator of severe/critical illness , which suggested that old people are more vulnerable to SARS-CoV-2 and more likely to develop severe/critical disease .
+10	We demonstrated that some underlying co-morbidities ( DM , hypertension , and CKD , but not IHD ) , high BMI and male gender were associated with a higher susceptibility of contracting SARS-CoV-2 infection .
+11	In line with the previous findings , the SARS-CoV-2 infection showed a clustering onset , a higher likelihood of affecting older males with comorbidities , and the possibility of resulting in severe and even fatal respiratory diseases such as ARDS .
+12	Overweight and obesity may be independent risk factors of more severe COVID-19 , as well as severe pneumonia during hospitalization due to COVID-19 .
+13	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
+14	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
+15	Furthermore , underlying comorbidities such as diabetes mellitus , renal insufficiency , chronic obstructive pulmonary disease ( COPD ) , and malignancy were significant risk factors for developing an Acinetobacter infection .
+16	Our results suggest that male patients , delayed admission to hospital after illness onset , and invasive mechanical ventilation during hospitalization were associated with prolonged SARS-CoV-2 RNA shedding .
+17	In conclusion , in this study , we found that the clinical factors of age older than 50 years , comorbidities , dyspnea , chest pain , cough , expectoration , decreased lymphocytes , and increased inflammation indicators may be risk factors for severe/critical COVID-19 pneumonia .
+18	Our retrospective cohort study from the Japanese sepsis registry revealed that admission route , severity , and infection site could be risk modifiers for ARDS in patients with non-pulmonary sepsis .
+19	Based on our meta-analysis , hypertension was shown to be associated with increased composite poor outcome that consists of mortality , severe COVID-19 , ARDS , need for ICU care and disease progression in patients with COVID-19 .
+20	Our study demonstrated that high level of peripheral blood cytokine IL-6 , CRP and the existence of hypertension were independent risk factors for assessing the severity of COVID-19 .
