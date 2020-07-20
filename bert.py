@@ -17,7 +17,7 @@ class BertEncoder(object):
             self.model = BertForMaskedLM.from_pretrained('bert-base-uncased', config = config)
 
         elif model == "scibert":
-            config = AlbertConfig.from_pretrained('allenai/scibert_scivocab_uncased', output_hidden_states = True)
+            config = AutoConfig.from_pretrained('allenai/scibert_scivocab_uncased', output_hidden_states = True)
             self.tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
             self.model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased', config = config)
         
@@ -71,13 +71,8 @@ class BertEncoder(object):
 
         with torch.no_grad():
             outputs = self.model(tokens_tensor)
+
             all_layers = outputs[-1]
             layers_concat = torch.cat([all_layers[l] for l in layers], dim = -1)
             
             return layers_concat[0].detach().cpu().numpy(), tokenized_text, tok_to_orig_map, orig2tok
-            
-            
-            predictions = torch.cat([outputs[1][layer][0] for layer in layers], axis=-1)  # .detach().cpu().numpy()
-            predictions = predictions.detach().cpu().numpy()
-
-            return (predictions.squeeze(), orig2tok, tok_to_orig_map, tokenized_text)
